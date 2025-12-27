@@ -1,0 +1,7 @@
+{
+  "name": "VisuDraft: Sketch-to-Flow",
+  "description": "Convert hand-drawn UI sketches and storyboards into interactive, production-ready multi-screen prototypes with navigation flow using Gemini 3 Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
